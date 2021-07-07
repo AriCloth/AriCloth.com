@@ -1,2 +1,0 @@
-# AriCloth.com
-My Site
